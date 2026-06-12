@@ -3,3 +3,12 @@ Hello India
 git restore file.txt works only if the file is not staged yet.
 which is the next undo operation we will practice.
 Before committing, you realize the mistake.
+Last Commit
+     ↓
+Edit file
+     ↓
+Oops! Wrong changes
+     ↓
+git restore file.txt
+     ↓
+File returns to last commit version
