@@ -6,9 +6,3 @@ Before committing, you realize the mistake.
 Last Commit
      ↓
 Edit file
-     ↓
-Oops! Wrong changes
-     ↓
-git restore file.txt
-     ↓
-File returns to last commit version
